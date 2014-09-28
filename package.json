@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sandduner350/node-playground",
   "dependencies": {
+    "express": "^4.9.5",
     "jquery": "^2.1.1"
   }
 }
